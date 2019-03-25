@@ -1,0 +1,12 @@
+[submodule "attendance_pi"]
+	path = attendance_pi
+	url = https://github.com/itsp300/attendance_pi
+[submodule "AttendanceBackend"]
+	path = AttendanceBackend
+	url = https://github.com/itsp300/AttendanceBackend
+[submodule "AttendanceAndroid"]
+	path = AttendanceAndroid
+	url = https://github.com/itsp300/AttendanceAndroid
+[submodule "attendance-web"]
+	path = attendance-web
+	url = https://github.com/itsp300/attendance-web
